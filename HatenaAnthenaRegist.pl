@@ -3,8 +3,8 @@
 use strict;
 use WWW::Mechanize;
 
-my $account = 'あなたのアカウント';
-my $password = 'あなたのパスワード';
+my $account = 'your account';
+my $password = 'your password';
 
 my $start = 'http://a.hatena.ne.jp/login';
 
